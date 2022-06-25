@@ -1,0 +1,50 @@
+body {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #D19900;
+    font-family: 'Potta One', cursive;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.images-container {
+    width: 80%;
+}
+
+.images-box {
+    align-items: center !important;
+}
+
+.item-images {
+    max-height: 15rem;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
+.score-container {
+    width: 40%;
+}
+
+.choice-area-container {
+    width: 80%;
+}
+
+.round-result {
+    font-size: 1.25rem;
+}
+
+.final-buttons {
+    font-size: 1.5 rem;
+    margin: 2%;
+}
+
+.final-result {
+    font-size: 4rem !important;
+}
